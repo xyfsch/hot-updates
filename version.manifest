@@ -1,0 +1,6 @@
+{
+    "version": "0.0.0.22",
+    "packageUrl": "http://112.124.50.24:8080",
+    "remoteVersionUrl": "http://112.124.50.24:8080/version.manifest",
+    "remoteManifestUrl": "http://112.124.50.24:8080/project.manifest"
+}
